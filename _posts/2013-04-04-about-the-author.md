@@ -1,10 +1,14 @@
 ---
 layout: post
 title: "About the Author"
-author: "Paul Le"
+author: "Maria Garcia"
 categories: journal
 tags: [documentation,sample]
 image: cutting.jpg
 ---
 
-Hi there! I'm Paul. I’m a physics major turned programmer. Ever since I first learned how to program while taking a scientific computing for physics course, I have pursued programming as a passion, and as a career. Check out [my personal website](https://www.lenpaul.com/) for more information on my other projects (including more Jekyll themes!), as well as some of my writing.
+My name is Maria, and I'm currently based in London. I have a background in Business Management and work in the Banking sector.
+
+Recently, I've been involved in projects related to Data Analysis. My main professional goals include growing my expertise in Business Analysis and contributing to innovative data-driven solutions.
+
+In my free time, I enjoy learning and sharing knowledge with others.
